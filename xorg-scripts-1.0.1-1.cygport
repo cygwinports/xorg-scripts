@@ -1,2 +1,1 @@
-XORG_RELEASE=X11R7.0
 inherit xorg
