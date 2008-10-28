@@ -1,6 +1,6 @@
 xorg-scripts
 ------------------------------------------
-Xorg miscellaneous scripts
+X.Org miscellaneous scripts
 
 Build requirements:
 (besides corresponding devel packages)
